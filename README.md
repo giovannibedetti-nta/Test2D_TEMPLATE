@@ -1,8 +1,8 @@
 ## README.md
 
-*test*
 
-**test**
+
+**Gattino**
 
 # 👋 Benvenuto nel mio progetto
 
@@ -12,7 +12,7 @@
 ---
 
 ## 🧩 Descrizione
-Questo progetto mostra una demo animata con GIF.
+Gattino amorevole.
 
 ---
 
