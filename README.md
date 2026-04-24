@@ -36,7 +36,7 @@ Gattino Amorevole.
 
 \+ Bello da vedere
 
-! Stupendo
+! Stupendo 
 
 
 
