@@ -1,5 +1,15 @@
 {
   "dependencies": {
+    "com.gb.statemachine_toolkit": {
+      "version": "https://github.com/giovannibedetti/StateMachineToolkit.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.textmeshpro": "2.0.1",
+        "com.unity.timeline": "1.2.14"
+      },
+      "hash": "a97f6bafb4387edea08b6a6a3508647c06bab8a5"
+    },
     "com.unity.2d.animation": {
       "version": "14.0.3",
       "depth": 0,
@@ -241,7 +251,7 @@
       }
     },
     "com.unity.test-framework.performance": {
-      "version": "3.2.0",
+      "version": "3.3.0",
       "depth": 2,
       "source": "registry",
       "dependencies": {
@@ -249,6 +259,14 @@
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.com"
+    },
+    "com.unity.textmeshpro": {
+      "version": "5.0.0",
+      "depth": 1,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.ugui": "2.0.0"
+      }
     },
     "com.unity.timeline": {
       "version": "1.8.11",
