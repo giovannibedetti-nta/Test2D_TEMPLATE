@@ -1,0 +1,12 @@
+ID	TESTO			
+INIZIO_intro	Palazzo Odasi. Ore 19:30.	Tutti sono andati via.	Le porte sono chiuse. Sei solo.	
+INIZIO_scelta	Cosa fai?	Esplori	Aspetti	
+ESPLORI_intro	Esci nel cortile.	Le colonne e gli archi proiettano ombre lunghe sul selciato.	Dal piano di sopra: un rumore.	
+ESPLORI_scelta	Cosa fai?	Sali	Ti nascondi	
+SALI_intro	Lo scalone è buio.	I tuoi passi risuonano sul legno.	In cima: una porta socchiusa.	
+SALI_scelta	Cosa fai?	Entri	Scappi	
+FINALE_A	Il custode. Stava sistemando i documenti dell'archivio.	Ti siede accanto.	Ti racconta che il palazzo ha quattrocento anni. Che ogni stanza ha una storia.	Esci alle dieci. Sai qualcosa che non sapevi.
+FINALE_B	Scendi le scale di corsa.	Attraversi il cortile senza guardare.	Non sai cosa c'era dietro quella porta.	Forse non è importante. Forse sì.
+FINALE_C	Le luci si spengono.	Rimani nell'ingresso al buio per quaranta minuti.	Nessuno arriva. Alla fine trovi l'uscita di emergenza.	Fuori piove.
+End	Fine			
+Ricomincia	Ricomincia?	Si	Me ne vado	
